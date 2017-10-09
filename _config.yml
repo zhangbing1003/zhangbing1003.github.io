@@ -1,0 +1,5 @@
+theme: jekyll-theme-merlot
+deploy:
+  type: git
+  repo: git@github.com:zhangbing1003/zhangbing1003.github.io.git
+  branch: master
